@@ -73,7 +73,7 @@ Wallpaper Studio is a modern, cross-platform desktop application built with Elec
 ### Windows
 Download the latest release for Windows:
 
-**[⬇️ Download Wallpaper Studio 1.0.0 for Windows (.exe)](https://github.com/YOUR_USERNAME/wallpaper-studio/releases/latest)**
+**[⬇️ Download Wallpaper Studio 1.0.0 for Windows (.exe)](https://github.com/Asamu22/WallpaperSelector/releases/latest)**
 
 > **Note:** The app is approximately 70 MB. Windows may show a security warning for unsigned apps - click "More info" and "Run anyway" to proceed.
 
@@ -90,9 +90,7 @@ Download the latest release for Windows:
 ### Video Demo
 Watch the full walkthrough of Wallpaper Studio:
 
-**[▶️ View Demo Video](YOUR_DEMO_VIDEO_LINK_HERE)**
-
-*Coming soon - Upload your demo video to YouTube, Loom, or another platform and add the link here*
+**[▶️ View Demo Video](https://drive.google.com/file/d/16UHi6cIg9o9V2F0y3wWxdzShrerW475J/view?usp=drive_link)**
 
 ### Live Preview
 Experience the web version:
@@ -179,8 +177,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/wallpaper-studio.git
-   cd wallpaper-studio
+   git clone https://github.com/Asamu22/WallpaperSelector.git
+   cd WallpaperSelector
    ```
 
 2. **Install dependencies**
@@ -361,13 +359,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Links
 
-- **GitHub Repository:** [https://github.com/YOUR_USERNAME/wallpaper-studio](https://github.com/YOUR_USERNAME/wallpaper-studio)
-- **Issues:** [Report a bug or request a feature](https://github.com/YOUR_USERNAME/wallpaper-studio/issues)
+- **GitHub Repository:** [https://github.com/Asamu22/WallpaperSelector](https://github.com/Asamu22/WallpaperSelector)
+- **Issues:** [Report a bug or request a feature](https://github.com/Asamu22/WallpaperSelector/issues)
 - **Figma Design:** [View Design File](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=0-1&p=f&t=2uDO3enoMFIThi2n-0)
+- **App Description Video:** [View Video](YOUR_VIDEO_LINK_HERE)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by YOUR_NAME</p>
+  <p>Made with ❤️ by Asamu22</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
