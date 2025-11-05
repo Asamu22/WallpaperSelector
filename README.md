@@ -10,7 +10,7 @@
   [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF?logo=vite)](https://vitejs.dev/)
   
-  [Download App](#-download) • [Demo Video](#-demo) • [Figma Design](#-design) • [Documentation](#-documentation)
+  [Download App](https://drive.google.com/file/d/1Y94zgo3SPhkVju_6cVQhqZGBcW6Kq7qk/view?usp=drive_link) • [Demo Video](https://drive.google.com/file/d/16UHi6cIg9o9V2F0y3wWxdzShrerW475J/view?usp=drive_link) • [Figma Design](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=0-1&p=f&t=2uDO3enoMFIThi2n-0) • [Documentation](#-documentation)
 </div>
 
 ---
@@ -363,6 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues:** [Report a bug or request a feature](https://github.com/Asamu22/WallpaperSelector/issues)
 - **Figma Design:** [View Design File](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=0-1&p=f&t=2uDO3enoMFIThi2n-0)
 - **App Description Video:** [View Video](https://drive.google.com/file/d/16UHi6cIg9o9V2F0y3wWxdzShrerW475J/view)
+- **Download App** [Download](https://drive.google.com/file/d/1Y94zgo3SPhkVju_6cVQhqZGBcW6Kq7qk/view?usp=drive_link)
 
 ---
 
